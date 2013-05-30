@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.hiqes.android.utility_library"
+             file="/system/framework/com.hiqes.android.utility_library.jar"/>
+</permissions>
